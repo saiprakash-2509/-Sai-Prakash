@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+.box1{
+    width:40%;
+    height:430px;
+    border:2px solid lightgray;
+    margin:100px auto;
+    border-radius: 16px;
+    font-family:'Open Sans', sans-serif;
+}
+.heading{
+    margin-left:30px;
+    margin-top:30px;
+    
+}
+.para{
+    color:gray;
+    font-weight: 600;
+    font-size: 18px;
+    margin-left:30px;
+    width:70%;
+}
+
+.icon_space{
+    margin:50px 20px 50px 90px;
+    border-radius: 40px;
+}
+.bottom{
+    border-top: 2px solid lightgray;
+    color: blue;
+    font-size: 18px;
+    padding-top: 20px;
+    padding-left: 30px;
+}

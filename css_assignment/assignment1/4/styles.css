@@ -1,0 +1,39 @@
+.box4{
+    width:200px;
+    height:500px;
+    margin:75px auto;
+    text-align: center;
+    padding: 50px;
+}
+.heading{
+    margin-top:0;
+    font-size:50px;
+}
+.fields{
+    border: 1px solid lightgray;
+    width:100%;
+    padding: 10px 20px;
+    border-radius: 10px;
+    margin:auto;
+    margin-bottom: 20px;
+    box-sizing: border-box;
+}
+.butn{
+    margin: auto;
+    padding: 10px 30px;
+    width:70%;
+    border:1px solid grey;
+    border-radius: 16px;
+    background-color:black;
+    color:white;
+    font-size:10px;
+}
+.bottom{
+    margin-top:40px;
+    font-size:small;
+    color: gray;
+}
+span{
+    color: black ;
+    text-decoration: underline;
+}
